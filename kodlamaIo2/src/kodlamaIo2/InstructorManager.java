@@ -1,6 +1,6 @@
 package kodlamaIo2;
 
-public class InstructorManager {
+public class InstructorManager extends UserManager{
 
 	public void CreatedCourse(Instructor instructor) {
 
